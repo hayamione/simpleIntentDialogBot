@@ -1,0 +1,6 @@
+{
+  "greetings": [ "hi", "hello", "hey", "ok" ],
+  "whoAreYou": [ "who are you", "what is your name", "tell me about yourself" ],
+  "help": [ "help", "can you help me", "please help" ],
+
+}
